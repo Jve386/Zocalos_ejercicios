@@ -69,4 +69,8 @@ Las redes de comunicaciones son el primer elemento de seguridad de cualquier inf
 
 ---
 
+Enunciado del examen del 20/01/2024: `TF6243485 - examen.docx`.
+
+---
+
 Si deseas compartir ejercicios de un semestre diferente o colaborar en este repositorio para ayudar a futuros estudiantes, ¡sería genial!
